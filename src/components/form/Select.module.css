@@ -10,6 +10,7 @@
 }
 
 .form_control select {
+  background-color: #fff;
   padding: .7em;
   border-radius: 0;
   border: none;

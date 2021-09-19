@@ -6,6 +6,9 @@
 ## Conteúdo do curso
 - React JS
 - Uso de rotas com react-router-dom
+- Criação de uma API "Fake" com json-server
+- Uso dos hooks useState, useEffect
+- Consumo de API
 
 ## Dependências
 - json-server
