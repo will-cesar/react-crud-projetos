@@ -5,6 +5,7 @@
 
 ## Conteúdo do curso
 - React JS
+- Uso de rotas com react-router-dom
 
 ## Dependências
 - json-server
