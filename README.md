@@ -15,3 +15,7 @@
 - react-icons
 - react-router-dom
 - uuid
+
+## Run App
+- npm start -> comando para rodar o app React
+- npm run backend -> comando para rodar o json-server, o backend "fake" do projeto
