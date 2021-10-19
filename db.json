@@ -18,8 +18,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 2000,
+      "services": [
+        {
+          "name": "Novo serviço",
+          "cost": "2000",
+          "description": "Teste",
+          "id": "5d082e5d-d72b-4408-8628-6da5619206cc"
+        }
+      ],
       "id": 2
     }
   ],
