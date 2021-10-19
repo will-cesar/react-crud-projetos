@@ -16,10 +16,12 @@ https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 
 - Projeto com o objetivo de simular um sistema de controle de projetos na TI. 
 - Nesse sistema é possível cadastrar, listar, editar e excluir um projeto.
-- Também é possível controlar o orçamento e a categoria do projeto.
+- Também é possível controlar o orçamento, selecionar a categoria do projeto e adicionar serviços ao projeto.
 
 > ## <a name="conteudo-do-curso"></a> Conteúdo do curso
 
+- Componentização de alguns elementos
+- Uso do css module como estilos
 - Uso de rotas com react-router-dom
 - Criação de uma API "Fake" com json-server
 - Uso dos hooks useState, useEffect, useHistory
