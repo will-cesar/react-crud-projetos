@@ -1,21 +1,60 @@
-# CRUD - Projetos React JS
+# CRUD - React JS
 
-> Sistema de cadastro de projetos em React JS </br>
-> Link da playlist: https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+> Sistema de controle ce projetos em React JS - Canal `Matheus Battisti - Hora de Codar`
 
-## Conteúdo do curso
-- React JS
+```
+https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+```
+> ## Índice
+
+- [Sobre](#sobre)
+- [Conteúdo do curso](#conteudo-do-curso)
+- [Dependências](#dependencias)
+- [Run App](#run-app)
+
+> ## <a name="sobre"></a> Sobre
+
+- Projeto com o objetivo de simular um sistema de controle de projetos na TI. 
+- Nesse sistema é possível cadastrar, listar, editar e excluir um projeto.
+- Também é possível controlar o orçamento e a categoria do projeto.
+
+> ## <a name="conteudo-do-curso"></a> Conteúdo do curso
+
 - Uso de rotas com react-router-dom
 - Criação de uma API "Fake" com json-server
 - Uso dos hooks useState, useEffect, useHistory
-- Consumo de API
+- Consumo de API sem o uso de libs terceiras para requisições
 
-## Dependências
-- json-server
-- react-icons
-- react-router-dom
-- uuid
+> ## <a name="dependencias"></a> Dependências
+- [json-server](https://www.npmjs.com/package/json-server) - Pacote para gerar uma "fake" api para consumo no front-end 
+- [react-icons](https://www.npmjs.com/package/react-icons) - Pacote de ícones para React.js
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - Possibilita a criação de rotas no projeto React.js
+- [uuid](https://www.npmjs.com/package/uuid) - Pacote de criação de IDs
 
-## Run App
-- npm start -> comando para rodar o app React
-- npm run backend -> comando para rodar o json-server, o backend "fake" do projeto
+> ## <a name="run-app"></a> Run App
+
+- É necessário executar os comandos de [Execução em ambiente de desenvolvimento](#execucao-dev) e [Execução do backend](#execucao-backend) ao mesmo tempo para rodar o projeto corretamente
+
+### Clone
+
+```
+git clone https://github.com/will-cesar/react-crud-projetos.git
+```
+
+### Instalando as dependências
+
+```
+npm install
+```
+
+### <a name="execucao-dev"></a> Execução em ambiente de desenvolvimento
+
+```
+npm start
+```
+
+### <a name="execucao-backend"></a> Execução do backend
+
+```
+npm run backend
+```
