@@ -1,6 +1,6 @@
 # CRUD - React JS
 
-> Sistema de controle ce projetos em React JS - Canal `Matheus Battisti - Hora de Codar`
+> Sistema de controle de projetos em React JS - Canal: `Matheus Battisti - Hora de Codar`
 
 ```
 https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
@@ -35,7 +35,7 @@ https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 
 > ## <a name="run-app"></a> Run App
 
-- É necessário executar os comandos de [Execução em ambiente de desenvolvimento](#execucao-dev) e [Execução do backend](#execucao-backend) ao mesmo tempo para rodar o projeto corretamente
+- É necessário executar os comandos de [Execução do React em ambiente de desenvolvimento](#execucao-dev) e [Execução do backend (Fake API)](#execucao-backend) ao mesmo tempo para rodar o projeto corretamente
 
 ### Clone
 
@@ -49,13 +49,13 @@ git clone https://github.com/will-cesar/react-crud-projetos.git
 npm install
 ```
 
-### <a name="execucao-dev"></a> Execução em ambiente de desenvolvimento
+### <a name="execucao-dev"></a> Execução do React em ambiente de desenvolvimento
 
 ```
 npm start
 ```
 
-### <a name="execucao-backend"></a> Execução do backend
+### <a name="execucao-backend"></a> Execução do backend (Fake API)
 
 ```
 npm run backend
