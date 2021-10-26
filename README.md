@@ -5,6 +5,9 @@
 ```
 https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 ```
+
+![home-project](./public/print-project.png)
+
 > ## Índice
 
 - [Sobre](#sobre)
