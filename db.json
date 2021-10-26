@@ -18,21 +18,8 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 3000,
-      "services": [
-        {
-          "name": "Novo serviço",
-          "cost": "2000",
-          "description": "Teste",
-          "id": "5d082e5d-d72b-4408-8628-6da5619206cc"
-        },
-        {
-          "name": "Dev PHP",
-          "cost": "1000",
-          "description": "Desenvolvimento",
-          "id": "c9c53127-d0dc-4e7e-90dc-513d12cbefc5"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 2
     }
   ],
